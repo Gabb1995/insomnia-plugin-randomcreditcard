@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-randomcreditcard",
+  "description": "Generate random creditcard numbers inside the Insomnia REST client",
+  "version": "0.0.1",
+  "main": "randomCreditcard.js",
+  "insomnia": {
+    "name": "randomCreditcard",
+    "description": "Generate a random creditcard number"
+  },
+  "repository": "https://github.com/Gabb1995/insomnia-plugin-randomcreditcard",
+  "dependencies": [],
+  "devDependencies": [],
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "random",
+    "rng",
+    "number",
+    "creditcard",
+    "credit",
+    "card",
+    "visa",
+    "mastercard",
+    "generator"
+  ]
+}
